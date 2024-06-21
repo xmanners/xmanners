@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xmanners
-- 👀 I’m interested in Python, machine learning & NLP
-- 🌱 I’m currently enhancing the programming ability
-- 💞️ Not very necessary on coopporate.
-- 📫 Reach me at 1719481038@qq.com
+- 👋 Hi, I’m currently a doctoral candidate in BIT
+- 👀 I’m interested in ~~Python, machine learning & NLP~~ cute meme vedios (motto please)
+- 🌱 I’m currently ~~enhancing the programming ability~~ learning how to herd cattle
+- 💞️ ~~Not~~ VERY necessary on coopporate. (Carry me plz! They will do anything you want(bushi) )
+- 📫 Reach me at 3220221148@bit.edu.cn
 
 <!---
 xmanners/xmanners is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
